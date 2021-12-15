@@ -2,12 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>小世界</title>
-        <subtitle></subtitle>
-        <icon>http://argentine.gitee.io/worldlet/images/favicon.ico</icon>
         <link>http://Argentine.gitee.io/worldlet</link>
-        <author>
-          <name>Argentine</name>
-        </author>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Sun, 12 Dec 2021 22:58:43 +0800</pubDate>

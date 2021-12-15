@@ -1,8 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "小世界",
-    "subtitle": "",
-    "icon": "http://argentine.gitee.io/worldlet/images/favicon.ico",
     "description": "",
     "home_page_url": "http://Argentine.gitee.io/worldlet",
     "items": [

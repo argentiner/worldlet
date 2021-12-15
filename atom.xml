@@ -2,12 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://Argentine.gitee.io/worldlet</id>
     <title>小世界</title>
-    <subtitle></subtitle>
-    <icon>http://argentine.gitee.io/worldlet/images/favicon.ico</icon>
     <link href="http://Argentine.gitee.io/worldlet" />
-    <author>
-      <name>Argentine</name>
-    </author>
     <updated>2021-12-12T14:58:43.871Z</updated>
     <entry>
         <id>http://argentine.gitee.io/worldlet/2021/12/12/hello-world/</id>
